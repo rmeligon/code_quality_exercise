@@ -12,7 +12,3 @@ Considering the code in ​src/smelly_code/trade_execution_service.rb:
     Bigger than 100k                                USD LIQUIDITY_PROVIDER_A 
  
  
-Bonus: 
- 4. Make sure all ruby code compiles and tests pass. Add ​require​ statements when needed, use a ​Gemfile​ to specify versions and ​Bundler​ to install any required libraries (gems). 
- 
-5. Provide a Dockerfile so that tests can run in a docker container. Provide instructions on how to run the container. 
